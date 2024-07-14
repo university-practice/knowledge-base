@@ -15,3 +15,6 @@
 
 ## Источник:
 https://habr.com/ru/companies/otus/articles/705482/
+
+## Примеры кода
+https://habr.com/ru/companies/otus/articles/774498/
